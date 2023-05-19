@@ -10,4 +10,4 @@ This Repository is regarding the projects I completed as a Data science and Busi
 
 #Task 2:Prediction using Unsupervised Learning(Iris clustering)
 
-#Task 3:Stock Market Prediction Using Textual and Numerical Analysis
+#Task 7:Stock Market Prediction Using Textual and Numerical Analysis
